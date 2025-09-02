@@ -41,7 +41,7 @@ pip install networkx
 If you find our work useful, please consider citing our paper:
 
 ```bash
-@article{Khanna2024GCLScale,
+@article{Khanna2025GCLScale,
   title   = {Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size},
   author  = {Khanna, Smayan and G{\"o}kmen, Doruk Efe and Kondor, Risi and Vitelli, Vincenzo},
   journal = {arXiv preprint arXiv:24XX.XXXXX},
