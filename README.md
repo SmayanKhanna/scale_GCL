@@ -13,7 +13,7 @@ Our key finding is that the benefit of GCL is strongly dependent on **dataset si
 ---
 ## Setup and Installation
 
-To get started, clone the repository and set up the Conda environment. Our code relies on PyTorch and PyTorch Geometric (PyG).
+To get started, clone the repository and set up the Conda environment. Our code relies on PyTorch, PyTorch Geometric (PyG) and networkX.
 
 ```bash
 # Clone the repository
@@ -33,3 +33,11 @@ pip install torch_geometric
 
 # Install other dependencies
 pip install numpy
+pip install networkx
+
+@article{Khanna2024GCLScale,
+  title   = {Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size},
+  author  = {Khanna, Smayan and G{\"o}kmen, Doruk Efe and Kondor, Risi and Vitelli, Vincenzo},
+  journal = {arXiv preprint arXiv:24XX.XXXXX},
+  year    = {2024}
+}
