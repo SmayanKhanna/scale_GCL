@@ -34,6 +34,7 @@ pip install torch_geometric
 # Install other dependencies
 pip install numpy
 pip install networkx
+```
 
 ```bash
 @article{Khanna2024GCLScale,
