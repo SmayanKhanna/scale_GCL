@@ -7,7 +7,7 @@ This repository contains the official implementation for our paper, **Graph Cont
 
 Our key finding is that the benefit of GCL is strongly dependent on **dataset size**. On small, standard TU datasets, we find that simple baselines can often rival or even outperform GCL methods. However, on larger datasets like OGBG-MOLHIV, we observe a clear crossover effect where GCL's advantage emerges and then plateaus as the number of training graphs increases.
 
-<img width="1000" height="360" alt="molhiv_scaling_dual" src="https://github.com/user-attachments/assets/4dc6882c-4ebd-42b7-a374-a5fc8cda92cf" />
+<img width="700" height="360" alt="molhiv_scaling_dual" src="https://github.com/user-attachments/assets/4dc6882c-4ebd-42b7-a374-a5fc8cda92cf" />
 
 > **Figure:** Our central finding on OGBG-MOLHIV. At small scales (<4k graphs), an untrained GNN baseline is competitive. GCL's advantage only becomes apparent as the dataset size increases, though this gain eventually plateaus.
 
