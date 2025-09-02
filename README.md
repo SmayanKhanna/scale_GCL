@@ -36,6 +36,7 @@ pip install torch_geometric
 pip install numpy
 pip install networkx
 ```
+Credit: credit to [Trivedi et al.](https://github.com/pujacomputes/datapropsgraphSSL) for the synthetic dataset generator and [the PyGCL library](https://github.com/PyGCL/PyGCL) for guiding our implementation of GCL methods.
 
 ## Citation
 
