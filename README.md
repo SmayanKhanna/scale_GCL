@@ -35,6 +35,7 @@ pip install torch_geometric
 pip install numpy
 pip install networkx
 
+```bash
 @article{Khanna2024GCLScale,
   title   = {Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size},
   author  = {Khanna, Smayan and G{\"o}kmen, Doruk Efe and Kondor, Risi and Vitelli, Vincenzo},
