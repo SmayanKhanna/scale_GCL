@@ -36,6 +36,8 @@ pip install numpy
 pip install networkx
 ```
 
+## Citation
+
 If you find our work useful, please consider citing our paper:
 
 ```bash
