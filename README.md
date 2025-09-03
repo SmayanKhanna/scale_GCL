@@ -1,6 +1,6 @@
 # Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size
 
-[![Paper](https://img.shields.io/badge/arXiv-24XX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/24XX.XXXXX)
+[![Paper](https://img.shields.io/badge/arXiv-2509.01541-b31b1b.svg)](https://arxiv.org/abs/2509.01541)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the official implementation for our paper, **Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size**. We investigate when Graph Contrastive Learning (GCL) truly offers an advantage over simple, untrained baselines for graph classification.
@@ -43,9 +43,12 @@ Credit: credit to [Trivedi et al.](https://github.com/pujacomputes/datapropsgrap
 If you find our work useful, please consider citing our paper:
 
 ```bash
-@article{Khanna2025GCLScale,
-  title   = {Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size},
-  author  = {Khanna, Smayan and G{\"o}kmen, Doruk Efe and Kondor, Risi and Vitelli, Vincenzo},
-  journal = {arXiv preprint arXiv:24XX.XXXXX},
-  year    = {2025}
+@misc{khanna2025graphcontrastivelearningversus,
+      title={Graph Contrastive Learning versus Untrained Baselines: The Role of Dataset Size}, 
+      author={Smayan Khanna and Doruk Efe Gökmen and Risi Kondor and Vincenzo Vitelli},
+      year={2025},
+      eprint={2509.01541},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2509.01541}, 
 }
